@@ -1,0 +1,22 @@
+{
+  "name": "@pascalwilbrink/aoc_day_1",
+  "version": "0.0.1",
+  "description": "Advent Of Code Day 1",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascalwilbrink/advent_of_code-day_1.git"
+  },
+  "keywords": [
+    "AOC"
+  ],
+  "author": "Pascal Wilbrink <pascalwilbrink@openvalue.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pascalwilbrink/advent_of_code-day_1/issues"
+  },
+  "homepage": "https://github.com/pascalwilbrink/advent_of_code-day_1#readme"
+}
